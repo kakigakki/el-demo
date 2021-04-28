@@ -1,0 +1,10 @@
+$loginBackground:#f0f2f5;
+$--color-primary: #114cb8;
+$headerBgColor:#fff;
+$text-color:#303133;
+$icon-size:25px;
+$icon-size-l:24px;
+:export {
+    loginBackground: $loginBackground;
+    colorPrimary: $--color-primary
+}

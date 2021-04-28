@@ -124,6 +124,7 @@
       </li>
     </ul>
   </div>
+  <el-button type="primary">住民税関連</el-button>
 </template>
 
 <script lang="ts">
